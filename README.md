@@ -14,12 +14,14 @@ Curieux et passionné par la création, j'adore transformer des idées en code. 
 
 ## 🌐 Retrouvez-moi sur
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johann-paimboeuf/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johann.paimboeuf@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/johann-paimboeuf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:johann.paimboeuf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -41,17 +43,17 @@ Curieux et passionné par la création, j'adore transformer des idées en code. 
 
 ## 📊 Statistiques & Activité
 
-<div align="center">
-
-[![Statistiques GitHub de Johann](https://github-readme-stats.vercel.app/api?username=Corblack&show_icons=true&theme=radical&hide_border=true&v=1)](https://github.com/Corblack)
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Corblack&layout=compact&theme=radical&hide_border=true&v=1)](https://github.com/Corblack)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Corblack">
+    <img src="https://github-readme-stats.vercel.app/api?username=Corblack&show_icons=true&theme=radical&hide_border=true&v=2" alt="Statistiques GitHub de Johann" />
+  </a>
+  <a href="https://github.com/Corblack">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corblack&layout=compact&theme=radical&hide_border=true&v=2" alt="Langages les plus utilisés" />
+  </a>
+</p>
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-
-![Citation développeur](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Citation développeur" />
+</p>
