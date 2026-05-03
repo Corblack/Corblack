@@ -41,17 +41,6 @@ Curieux et passionné par la création, j'adore transformer des idées en code. 
 
 ---
 
-## 📊 Statistiques & Activité
-
-<p align="center">
-  <a href="https://github.com/Corblack">
-    <img src="https://github-readme-stats.vercel.app/api?username=Corblack&show_icons=true&theme=radical&hide_border=true&v=2" alt="Statistiques GitHub de Johann" />
-  </a>
-  <a href="https://github.com/Corblack">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corblack&layout=compact&theme=radical&hide_border=true&v=2" alt="Langages les plus utilisés" />
-  </a>
-</p>
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
